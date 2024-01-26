@@ -170,4 +170,8 @@ dependencies:
   - zipp=3.17.0=py39haa95532_0
   - zlib=1.2.13=h8cc25b3_0
   - zstd=1.5.5=hd43e919_0
+  - pip:
+      - cloudpickle==3.0.0
+      - gym==0.26.2
+      - gym-notices==0.0.8
 prefix: C:\Users\LEGION\.conda\envs\hor

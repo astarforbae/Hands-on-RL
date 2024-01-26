@@ -19,6 +19,7 @@ ca-certificates=2023.12.12=haa95532_0
 certifi=2023.11.17=py39haa95532_0
 cffi=1.16.0=py39h2bbff1b_0
 charset-normalizer=2.0.4=pyhd3eb1b0_0
+cloudpickle=3.0.0=pypi_0
 colorama=0.4.6=py39haa95532_0
 comm=0.1.2=py39haa95532_0
 contourpy=1.2.0=py39h59b6b97_0
@@ -32,6 +33,8 @@ executing=0.8.3=pyhd3eb1b0_0
 fonttools=4.25.0=pyhd3eb1b0_0
 freetype=2.12.1=ha860e81_0
 giflib=5.2.1=h8cc25b3_3
+gym=0.26.2=pypi_0
+gym-notices=0.0.8=pypi_0
 icu=73.1=h6c2663c_0
 idna=3.4=py39haa95532_0
 importlib-metadata=7.0.1=py39haa95532_0
