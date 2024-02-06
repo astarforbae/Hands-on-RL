@@ -4,9 +4,11 @@
 
 代码中有些地方添加了注释帮助理解。
 
-注：
+从第7章开始需要用到torch，torch的安装需要根据自己的环境选择，可以参考[官网](https://pytorch.org/get-started/locally/)。
+`requirements.txt`提供的是`torch`的cpu版本（运行效率低），如果需要安装`gpu`版本，可以参考官网的安装指南。
 
-当前进度：第6章完成。
+注：
+当前进度：第7章完成。
 
 
 
